@@ -17,7 +17,7 @@ body {
   height: 100px;
   margin-top: 5%;
   margin-left: 10%;
-  background: url(/assets/moon.png);
+  background: url(assets/moon.png);
   background-size: cover;
   background-repeat: repeat-x;
   position: fixed;
